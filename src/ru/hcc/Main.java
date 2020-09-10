@@ -11,7 +11,7 @@ public class Main {
                     System.out.print("Fizz");
                 if (i % 5 == 0)
                     System.out.print("Buzz");
-                System.out.println("");
+                System.out.print("\n");
             }
         }
     }
